@@ -19,17 +19,17 @@ namespace GitProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This is one message");
+            MessageBox.Show("WILLIAM IS HOMO");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This is a second message");
+            MessageBox.Show("Faggot");
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This is a third message");
+            MessageBox.Show("Idioot");
         }
     }
 }
