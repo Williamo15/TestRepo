@@ -24,17 +24,17 @@ namespace MessageBoxGithubDing
 
         private void btnMessageEenMaSt_Click(object sender, EventArgs e)
         {
-            DisplayMessage("*Insert Message 1 Here");
+            DisplayMessage("I want to play a game.");
         }
 
         private void btnMessageTweeMaSt_Click(object sender, EventArgs e)
         {
-            DisplayMessage("*Insert Message 2 Here");
+            DisplayMessage("Marco.....");
         }
 
         private void btnMessageDrieMaSt_Click(object sender, EventArgs e)
         {
-            DisplayMessage("*Insert Message 3 Here");
+            DisplayMessage("Polo");
         }
     }
 }
